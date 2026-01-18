@@ -54,7 +54,7 @@
 
 <br><br>
 
-<!-- Top Languages (fork + 내 레포 전부 포함) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jung518&layout=compact&langs_count=6&fork=true&theme=nord&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jung518&layout=compact&langs_count=6&theme=nord&hide_border=true&include_all_commits=true&count_private=true" />
 
 </div>
