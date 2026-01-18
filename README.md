@@ -11,14 +11,24 @@
 <h3 align="left">✨ Tech Stack ✨</h3>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" alt="JavaScript" />
+  </a>&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  </a>&nbsp;
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  </a>
 </div>
 
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<div align="left" style="margin-top: 10px;">
+  <a href="https://developer.mozilla.org/ko/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  </a>&nbsp;
+  <a href="https://developer.mozilla.org/ko/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  </a>
 </div>
 
 ---
@@ -46,7 +56,5 @@
 
 <!-- Top Languages (fork + 내 레포 전부 포함) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jung518&layout=compact&langs_count=6&fork=true&theme=nord&hide_border=true" />
-
-
 
 </div>
