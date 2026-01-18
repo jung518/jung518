@@ -55,6 +55,6 @@
 <br><br>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jung518&layout=compact&langs_count=6&theme=nord&hide_border=true&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jung518&layout=compact&langs_count=6&theme=nord&hide_border=true&include_all_commits=true&count_private=true&fork=true" />
 
 </div>
