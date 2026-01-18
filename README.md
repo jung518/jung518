@@ -46,6 +46,4 @@
 
 <!-- Top Languages (fork + 내 레포 전부 포함) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jung518&layout=compact&langs_count=6&fork=true&theme=nord&hide_border=true" />
-## 🕒 Commit Time Stats
-<img src="./assets/commit-time.svg" alt="Commit Time Stats" />
 </div>
